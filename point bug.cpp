@@ -23,7 +23,7 @@ using namespace std;
 
 range_sensor();  //It returns the the distance of the obstacle from the bot for a specific direction
 
-rot_sens();     //it rotates the sesonr by certain degrees which is very small when eve it is called
+rot_sens();     //it rotates the sensor by certain degrees which is very small when eve it is called
                 //other thing is that give value 1 makes it to rotate clock wise and -1 anti clockwise
 
 rot_bot();      //rotates the bot by the given angle
